@@ -1,3 +1,8 @@
+Requirements
+numpy
+matplotlib
+tkinter
+
 """Comparador de img/plot.png.
 """
 
@@ -375,3 +380,4 @@ class ComparadorGUI(tk.Tk):
 if __name__ == "__main__":
     app = ComparadorGUI()
     app.mainloop()
+
